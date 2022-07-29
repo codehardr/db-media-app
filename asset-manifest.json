@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dragon-ball-app/static/css/main.c57eb920.css",
+    "main.js": "/dragon-ball-app/static/js/main.47391b4d.js",
+    "index.html": "/dragon-ball-app/index.html",
+    "main.c57eb920.css.map": "/dragon-ball-app/static/css/main.c57eb920.css.map",
+    "main.47391b4d.js.map": "/dragon-ball-app/static/js/main.47391b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57eb920.css",
+    "static/js/main.47391b4d.js"
+  ]
+}
